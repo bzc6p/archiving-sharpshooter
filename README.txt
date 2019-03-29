@@ -133,3 +133,14 @@ Never trust this program completely: it is complicated enough, and the pattern m
 6. Encouraging words
 
 It may seem a long, difficult and tedious task to set up the suite for the first time, and to write, test and fine-tune the code for your first project. However, if you once finish that, the program can archive thousands of pages without your intervention. Your well-written algorithm needs to be changed only when the page layout or some signs, logos, labels change on the website or in the comments plugin. (Pay attention to this, look at that sometimes!)
+
+
+7. License
+
+The program is provided with no warranty. Use it at your own risk.
+
+The code is dedicated to the public domain - do whatever you want with it.
+
+Images included are part of hvg.hu and disqus.com graphical elements. They are provided as a test suite for the program. No copyright infringement intended.
+
+Revision 1 - 2019-03-29
